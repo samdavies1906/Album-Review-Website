@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <Qutoes>
+  <Quote>
+    <quote> </quote>
+    <person>Lionel Messi</person>
+    <pub>Marca</pub>
+    <source>Source Title</source>
+    <quote_href>quote1.part.html</quote_href>
+  </Quote>
+  
+  <Quote>
+    <quote> </quote>
+    <person>Sam Davies</person>
+    <pub>Mirror</pub>
+    <source>Source Title</source>
+    <quote_href>quote2.part.html</quote_href>
+  </Quote>
+  
+  </Qutoes>

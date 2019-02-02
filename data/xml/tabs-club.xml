@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>history</tabid>
+    <tabname>Club History</tabname>
+    <content_href>tab-club1.part.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>season</tabid>
+    <tabname>2016-17 Season</tabname>
+    <content_href>tab-club2.part.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

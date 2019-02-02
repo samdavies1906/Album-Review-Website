@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Featured Album</heading>
+    <tagline>Todays Album: Culture II - Migos</tagline>
+    <storyimg_href>album-thumb-migos.jpg</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+   
+  </Article>
+  <Article>
+    <heading>Latest Albums</heading>
+    <tagline>Review now</tagline>
+    <storyimg_href>review.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary></summary>
+    <link>news.php</link>
+    <linktitle>Find More Reviews...</linktitle>
+  </Article>
+</Articles>
